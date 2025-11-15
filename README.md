@@ -61,3 +61,7 @@ GROQ_API_KEY
 
 
 link : http://3.93.231.168:8080/
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d231c4af-a005-4a53-8d62-42d902e96307" />
+
